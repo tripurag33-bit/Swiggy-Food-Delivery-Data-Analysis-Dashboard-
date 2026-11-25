@@ -28,3 +28,7 @@ Delivery_Performance (Objective 2): Delivery SLA buckets (Fast <30m, Standard 30
 City_Category_Matrix (Objective 3): Dynamic SUMIFS City × Food Category GMV cross-matrix and a rating resilience comparison (≤45m vs. >55m) across food categories.
 Temporal_Trends (Objective 4): Day-part demand breakdown (led by Dinner 19:00–23:00 with 1,172 orders and Lunch 11:00–15:00 with 826 orders), day-of-week and weekend trends, a day-part chart, and prioritized operational recommendations.
 Order_Data: Cleaned 2025 order-level records with dynamic Excel formulas for Net_Order_Value, Total_Customer_Payable, Delivery_Speed_kmph, Day_Part, and Delivery_SLA_Bucket, plus frozen headers, filters, and status validation.
+
+HERE LINK OF IMAGES 👇👇👇✅
+
+https://github.com/tripurag33-bit/Swiggy-Food-Delivery-Data-Analysis-Dashboard-/blob/07f586bed67c6fd157aba92582aec7fbc31e1a18/Swiggy%20Food%20Delivery%20EDA%20(FY%202025)%20Key%20Operational%20%26%20Customer%20Patterns.png
